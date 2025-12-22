@@ -1,0 +1,6 @@
+"""品質濾網門檻 (百分位)"""
+
+IVOL_FILTER_PERCENTILE = 90  # 剔除前 10%
+MAX_FILTER_PERCENTILE = 90  # 剔除前 10%
+ID_FILTER_PERCENTILE = 80  # 剔除 ID > 0 前 20%
+AMIHUD_FILTER_PERCENTILE = 90  # 剔除前 10%

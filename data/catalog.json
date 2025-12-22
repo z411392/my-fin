@@ -1,0 +1,5202 @@
+{
+  "tw": {
+    "0052": [
+      {
+        "code": "2330",
+        "name": "台積電",
+        "market": "TSE",
+        "industry": "24",
+        "currency": "TWD"
+      }
+    ],
+    "0055": [
+      {
+        "code": "2882",
+        "name": "國泰金",
+        "market": "TSE",
+        "industry": "17",
+        "currency": "TWD"
+      }
+    ],
+    "0050": [
+      {
+        "code": "1101",
+        "name": "台泥",
+        "market": "TSE",
+        "industry": "01",
+        "currency": "TWD"
+      }
+    ]
+  },
+  "tw_sector_proxies": {
+    "01": [
+      "1101"
+    ]
+  },
+  "industry_to_etf": {
+    "24": "0052",
+    "25": "0052",
+    "26": "0052",
+    "27": "0052",
+    "28": "0052",
+    "29": "0052",
+    "30": "0052",
+    "31": "0052",
+    "17": "0055"
+  },
+  "us": {
+    "russell_1000": [
+      {
+        "code": "A",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AAL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AAON",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AAPL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ABBV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ABNB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ABT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ACGL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ACHC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ACI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ACM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ACN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ADBE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ADC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ADI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ADM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ADP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ADSK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ADT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AEE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AEP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AES",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AFG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AFL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AFRM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AGCO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AGNC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AGO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AIG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AIT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AIZ",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AJG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AKAM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ALAB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ALB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ALGM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ALGN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ALK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ALL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ALLE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ALLY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ALNY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ALSN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AMAT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AMCR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AMD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AME",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AMG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AMGN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AMH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AMKR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AMP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AMT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AMTM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AMZN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ANET",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AON",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AOS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "APA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "APD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "APG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "APH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "APLS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "APO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "APP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "APPF",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "APTV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ARE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ARES",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ARMK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ARW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ASH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ASTS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ATI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ATO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ATR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AU",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AUR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AVB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AVGO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AVT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AVTR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AVY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AWI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AWK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AXON",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AXP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AXS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AXTA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AYI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "AZO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BAC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BAH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BALL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BAM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BAX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BBWI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BBY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BDX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BEN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BEPC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BF.A",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BF.B",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BFAM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BHF",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BIIB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BILL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BIO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BIRK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BJ",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BKNG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BKR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BLD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BLDR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BLK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BMRN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BMY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BOKF",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BPOP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BRBR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BRK.B",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BRKR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BRO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BROS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BRX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BSX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BSY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BURL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BWA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BWXT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BXP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "BYD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "C",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CACC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CACI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CAG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CAH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CAI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CAR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CARR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CART",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CASY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CAT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CAVA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CBOE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CBRE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CBSH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CCC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CCI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CCK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CCL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CDNS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CDW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CEG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CELH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CERT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CF",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CFG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CFLT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CFR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CGNX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CHD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CHDN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CHE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CHH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CHRD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CHRW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CHTR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CHWY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CIEN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CINF",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CIVI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CLF",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CLH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CLVT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CLX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CMA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CMCSA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CME",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CMG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CMI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CMS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CNA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CNC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CNH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CNM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CNP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CNXC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "COF",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "COHR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "COIN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "COKE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "COLB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "COLD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "COLM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "COO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "COP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "COR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CORT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "COST",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "COTY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CPAY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CPB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CPNG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CPRT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CPT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CRCL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CRH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CRL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CRM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CROX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CRS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CRUS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CRWD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CSCO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CSGP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CSL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CSX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CTAS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CTRA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CTSH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CTVA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CUBE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CUZ",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CVNA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CVS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CVX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CWEN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CXT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "CZR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "D",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DAL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DAR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DASH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DAY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DBX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DCI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DDOG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DDS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DECK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DELL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DGX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DHI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DHR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DINO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DIS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DJT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DKNG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DKS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DLB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DLR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DLTR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DOC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DOCS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DOCU",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DOV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DOW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DOX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DPZ",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DRI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DRS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DTE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DTM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DUK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DUOL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DVA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DVN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DXC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "DXCM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EBAY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ECG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ECL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ED",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EEFT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EFX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EGP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EHC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EIX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ELAN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ELF",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ELS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ELV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EME",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EMN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EMR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ENPH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ENTG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EOG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EPAM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EPR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EQH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EQIX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EQR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EQT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ES",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ESAB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ESI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ESS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ESTC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ETN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ETR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ETSY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EVR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EVRG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EWBC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EXAS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EXC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EXE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EXEL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EXLS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EXP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EXPD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EXPE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "EXR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "F",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FAF",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FANG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FAST",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FBIN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FCN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FCNCA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FCX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FDS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FDX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FERG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FFIV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FHB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FHN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FICO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FIS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FISV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FITB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FIVE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FIX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FLEX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FLO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FLS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FLUT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FMC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FNB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FND",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FNF",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FOUR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FOX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FOXA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FRHC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FRPT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FRT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FSLR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FTAI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FTI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FTNT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FTV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FWONA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FWONK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "FYBR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "G",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GAP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GDDY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GEHC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GEN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GEV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GFS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GGG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GILD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GIS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GLIBA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GLIBK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GLOB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GLPI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GLW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GME",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GMED",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GNRC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GNTX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GOOG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GOOGL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GPC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GPK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GPN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GRMN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GTES",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GTLB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GTM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GWRE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GWW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "GXO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "H",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HAL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HALO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HAS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HAYW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HBAN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HCA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HEI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HEI.A",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HHH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HIG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HII",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HIW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HLI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HLNE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HLT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HOG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HOLX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HON",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HOOD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HPE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HPQ",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HRB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HRL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HSIC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HST",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HSY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HUBB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HUBS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HUM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HUN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HWM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "HXL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "IAC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "IBKR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "IBM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ICE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "IDA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "IDXX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "IEX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "IFF",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ILMN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "INCY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "INGM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "INGR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "INSM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "INSP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "INTC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "INTU",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "INVH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "IONS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "IOT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "IP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "IPGP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "IQV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "IR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "IRDM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "IRM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ISRG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "IT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ITT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ITW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "IVZ",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "J",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "JAZZ",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "JBHT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "JBL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "JCI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "JEF",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "JHG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "JHX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "JKHY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "JLL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "JNJ",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "JPM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KBR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KDP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KEX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KEY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KEYS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KHC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KIM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KKR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KLAC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KMB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KMI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KMPR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KMX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KNSL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KNX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KRC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KRMN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "KVUE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "L",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LAD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LAMR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LAZ",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LBRDA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LBRDK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LBTYA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LBTYK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LCID",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LDOS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LEA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LECO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LEN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LEN.B",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LFUS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LHX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LII",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LIN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LINE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LITE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LKQ",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LLY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LLYVA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LLYVK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LMT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LNC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LNG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LNT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LOAR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LOPE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LOW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LPLA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LPX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LRCX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LSCC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LSTR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LULU",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LUV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LVS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LYB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LYFT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "LYV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "M",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MAA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MAN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MANH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MAR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MAS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MASI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MAT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MCD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MCHP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MCK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MCO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MDB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MDLZ",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MDT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MDU",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MEDP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MET",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "META",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MGM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MHK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MIDD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MKC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MKL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MKSI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MKTX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MLI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MLM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MMC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MMM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MNST",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MOH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MORN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MOS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MPC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MPW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MPWR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MRK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MRNA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MRP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MRVL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MSA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MSCI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MSFT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MSGS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MSI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MSM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MSTR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MTB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MTCH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MTD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MTDR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MTG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MTN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MTSI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MTZ",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MU",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "MUSA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NBIX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NCLH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NCNO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NDAQ",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NDSN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NEE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NEM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NET",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NEU",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NFG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NFLX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NIQ",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NKE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NLY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NNN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NOC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NOV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NOW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NRG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NSA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NSC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NTAP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NTNX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NTRA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NTRS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NU",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NUE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NVDA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NVR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NVST",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NVT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NWL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NWS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NWSA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NXST",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "NYT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "O",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "OC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ODFL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "OGE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "OGN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "OHI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "OKE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "OKTA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "OLED",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "OLLI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "OLN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "OMC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "OMF",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ON",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ONON",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ONTO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ORCL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ORI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ORLY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "OSK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "OTIS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "OVV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "OWL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "OXY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "OZK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PAG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PANW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PATH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PAYC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PAYX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PCAR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PCG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PCOR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PCTY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PEG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PEGA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PEN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PENN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PEP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PFE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PFG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PFGC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PGR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PHM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PINS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PKG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PLD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PLNT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PLTR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PNC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PNFP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PNR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PNW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PODD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "POOL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "POST",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PPC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PPG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PPL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PRGO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PRI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PRMB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PRU",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PSA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PSN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PSTG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PSX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PTC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PVH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PWR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "PYPL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "Q",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "QCOM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "QGEN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "QRVO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "QS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "QSR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "QXO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "R",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RAL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RARE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RBA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RBC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RBLX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RBRK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RCL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RDDT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "REG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "REGN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "REXR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "REYN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RF",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RGA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RGEN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RGLD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RHI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RITM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RIVN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RJF",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RKLB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RKT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RLI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RMD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RNG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RNR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ROIV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ROK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ROKU",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ROL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ROP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ROST",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RPM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RPRX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RRC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RRX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RSG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RTX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RVMD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RVTY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RYAN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "RYN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "S",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SAIA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SAIC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SAIL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SAM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SARO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SBAC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SBUX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SCCO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SCHW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SCI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SEB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SEE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SEIC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SF",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SFD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SFM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SGI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SHC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SHW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SIRI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SITE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SJM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SLB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SLGN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SLM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SMCI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SMG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SMMT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SNA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SNDK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SNDR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SNOW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SNPS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SNV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SNX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SOFI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SOLS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SOLV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SON",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SPG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SPGI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SPOT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SPR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SRE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SRPT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SSB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SSD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SSNC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ST",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "STAG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "STE",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "STLD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "STT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "STWD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "STZ",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SUI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SWK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SWKS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SYF",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SYK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "SYY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "T",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TAP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TDC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TDG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TDY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TEAM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TECH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TEM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TER",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TFC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TFSL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TFX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TGT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "THC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "THG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "THO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TIGO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TJX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TKO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TKR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TLN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TMO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TMUS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TNL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TOL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TOST",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TPG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TPL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TPR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TREX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TRGP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TRMB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TROW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TRU",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TRV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TSCO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TSLA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TSN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TTC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TTD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TTEK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TTWO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TWLO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TXN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TXRH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TXT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "TYL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "U",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "UA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "UAA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "UAL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "UBER",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "UDR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "UGI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "UHAL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "UHS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "UI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ULTA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "UNH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "UNM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "UNP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "UPS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "URI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "USB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "USFD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "UTHR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "UWMC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "V",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VEEV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VFC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VICI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VIK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VIRT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VKTX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VLO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VLTO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VMC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VMI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VNO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VNOM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VNT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VOYA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VRSK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VRSN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VRT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VRTX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VST",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VTR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VTRS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VVV",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "VZ",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "W",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WAB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WAL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WAT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WBD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WBS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WCC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WDAY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WDC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WEC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WELL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WEN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WEX",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WFC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WFRD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WHR",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WING",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WLK",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WMB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WMS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WMT",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WPC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WRB",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WSC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WSM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WSO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WST",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WTFC",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WTM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WTRG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WTW",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WU",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WWD",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "WYNN",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "XEL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "XOM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "XP",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "XPO",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "XRAY",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "XYL",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "XYZ",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "YETI",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "YUM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "Z",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ZBH",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ZBRA",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ZG",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ZION",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ZM",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ZS",
+        "sector": "SPY",
+        "currency": "USD"
+      },
+      {
+        "code": "ZTS",
+        "sector": "SPY",
+        "currency": "USD"
+      }
+    ],
+    "sox": [
+      {
+        "code": "ADI",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "AMAT",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "AMD",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "ASML",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "AVGO",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "ENTG",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "INTC",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "KLAC",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "LRCX",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "MCHP",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "MPWR",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "MRVL",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "MU",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "NVDA",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "NXPI",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "ON",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "QCOM",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "QRVO",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "SWKS",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "TSM",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "TXN",
+        "sector": "SMH",
+        "currency": "USD"
+      },
+      {
+        "code": "WOLF",
+        "sector": "SMH",
+        "currency": "USD"
+      }
+    ]
+  },
+  "us_sector_etf_map": {
+    "Technology": "XLK",
+    "Financials": "XLF",
+    "Healthcare": "XLV",
+    "Consumer Discretionary": "XLY",
+    "Consumer Staples": "XLP",
+    "Industrials": "XLI",
+    "Energy": "XLE",
+    "Communication Services": "XLC",
+    "Materials": "XLB",
+    "Utilities": "XLU",
+    "Real Estate": "XLRE"
+  },
+  "last_updated": "2026-01-04T00:48:55.178869"
+}

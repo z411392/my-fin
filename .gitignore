@@ -1,0 +1,15 @@
+.venv
+__pycache__
+.coverage
+.env
+shioaji.log
+
+# 產生資料 (非版本控制)
+data/momentum/
+data/fundamental/
+data/summaries/
+cache/
+
+.context
+.agent
+GEMINI.md
